@@ -1,1 +1,14 @@
+{
+    "jobName": "DAILYLOAD",
+    "jobType": "pipeline",
+    "variables": {
+                    "STARTPERIOD": "Jan-23",
+                    "ENDPERIOD": "Jan-23",
+                    "IMPORTMODE": "Replace",
+                    "EXPORTMODE": "Merge",
+                    "ATTACH_LOGS": "N",
+                    "SEND_MAIL": "ALWAYS",
+                    "SEND_TO": "user@company.com"
+                }
+}
 
